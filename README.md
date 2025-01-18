@@ -1,2 +1,2 @@
-# ghost-in-the-shell
+# go-in-the-shell
 a basic shell written in go...
